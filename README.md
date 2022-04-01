@@ -1,7 +1,6 @@
 ### Olá! Me chamo Bárbara Pimenta 👋
 <!--vue, graywhite-->
-- 📚 Sou estudante na UFMG
-- 🖥️ Tenho interesse na área de front-end e back-end
+- 📚 Sou estudante de física na UFMG e desenvolvimento web full stack na Digital House
 - 🌱 Atualmente estou aprendendo Java, HTML, CSS e JavaScript
 - 👩‍💻 Meus pronomes são: Ela/Dela
 
