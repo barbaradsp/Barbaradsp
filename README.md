@@ -1,7 +1,7 @@
 ### Olá! Me chamo Bárbara Pimenta 👋
 <!--vue, graywhite-->
 - 👩‍💻 Estagiária de Engenharia de Software
-- 📚 Sou estudante de física na UFMG e fiz um curso de desenvolvimento full stack na Digital House
+- 📚 Sou estudante de física na UFMG e fiz um curso de desenvolvimento full stack
 - 🌱 Atualmente estou focando meu aprendizado em Java e Spring
 - 👩 Meus pronomes são: Ela/Dela
 
