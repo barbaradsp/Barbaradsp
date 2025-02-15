@@ -1,8 +1,8 @@
 ### Olá! Me chamo Bárbara Pimenta 👋
 <!--vue, graywhite-->
-- 👩‍💻 Trabalho como Engenharia de Software Trainee no Pagbank, onde também fiz meu estágio
+- 👩‍💻 Trabalho como Engenharia de Software júnior no Pagbank
 - 📚 Sou estudante de Engenharia de Software na Uninter
-- 🌱 Atualmente estou focando meu aprendizado em JavaScript e Java
+- 🌱 Atualmente estou focando meu aprendizado em Java
 - 👩 Meus pronomes são: Ela/Dela
 
 ##
